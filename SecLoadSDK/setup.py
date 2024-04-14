@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.2' 
+VERSION = '0.0.3' 
 DESCRIPTION = 'SecLoad SDK package for Roblox Script Builder APIs.'
 
 # Setting up
